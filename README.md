@@ -1,2 +1,2 @@
 # WorkChrono
-Aplicação web para monitorar horas trabalhadas e gestão de projetos eficientes.
+Monitore e organize horas trabalhadas em projetos, de forma eficiente
