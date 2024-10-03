@@ -1,7 +1,4 @@
 # WorkChrono
-Monitore e organize horas trabalhadas em projetos, de forma eficiente
-
-# WorkChrono
 
 WorkChrono é uma aplicação web projetada para ajudar você a monitorar e gerenciar suas horas trabalhadas em diferentes projetos. Com uma interface intuitiva e relatórios detalhados, você pode acompanhar seu tempo de trabalho diário, semanal e mensal, garantindo uma visão clara da sua produtividade.
 
