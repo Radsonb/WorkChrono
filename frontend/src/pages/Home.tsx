@@ -3,7 +3,7 @@ import ProjectSelector from "../components/selector/ProjectSelector";
 import Timer from "../components/timer/Timer";
 
 const Home: React.FC = () => {
-    const [project, setProject] = useState('Project A')
+    const [project, setProject] = useState<number | null>(null)
 
     return(
         <div className="container mx-auto mt-10">
